@@ -1,2 +1,2 @@
 # Multi-Share
-Partagez des images, des fichiers, en un clic sur plusieurs plateformes !
+Partagez des images, du texte, des fichiers, en un clic sur plusieurs plateformes !
